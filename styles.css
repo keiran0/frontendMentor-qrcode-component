@@ -15,7 +15,7 @@ img {
     display: inline-block;
     margin: 10rem auto;
     padding: 2rem;
-    max-width: 500px
+    max-width: 300px /* change this to larger number if need to demonstrate responsiveness */
 }
 
 .text  {
