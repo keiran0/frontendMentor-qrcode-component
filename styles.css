@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    background-color: hsl(212, 45%, 89%);
+    height: auto;
+}
+
+img {
+    border-radius: 30px;
+    max-width: 100%
+}
+
+.card {
+    background-color: white;
+    border-radius: 30px;
+    display: inline-block;
+    margin: 10rem auto;
+    padding: 2rem;
+    max-width: 500px
+}
+
+.text  {
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0 auto 0 auto;
+    max-width: 90%;
+    font-size: 15px;
+}
+
+.align {
+    margin: 0 auto 0 auto;
+    max-width: 100%;
+
+}
+
+h1 {
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+}
+
+p {
+    
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+}
