@@ -1,7 +1,7 @@
 body {
     text-align: center;
     background-color: hsl(212, 45%, 89%);
-    height: auto;
+    height: 100vh;
 }
 
 img {
@@ -15,7 +15,11 @@ main {
     display: inline-block;
     margin: 10rem auto;
     padding: 2rem;
-    max-width: 300px /* change this to larger number if need to demonstrate responsiveness */
+    max-width: 300px; /* change this to larger number if need to demonstrate responsiveness */
+    justify-self: center;
+    align-self:center
+
+
 }
 
 .text  {
