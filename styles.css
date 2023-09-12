@@ -13,7 +13,6 @@ main {
     background-color: white;
     border-radius: 30px;
     display: inline-block;
-    margin: 10rem auto;
     padding: 2rem;
     max-width: 300px; /* change this to larger number if need to demonstrate responsiveness */
     justify-self: center;
